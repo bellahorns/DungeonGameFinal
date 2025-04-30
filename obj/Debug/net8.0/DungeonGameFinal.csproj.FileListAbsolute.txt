@@ -1,0 +1,14 @@
+C:\Users\ihorn\source\repos\DungeonGameFinal\DungeonGameFinal\obj\Debug\net8.0\DungeonGameFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihorn\source\repos\DungeonGameFinal\DungeonGameFinal\obj\Debug\net8.0\DungeonGameFinal.AssemblyInfoInputs.cache
+C:\Users\ihorn\source\repos\DungeonGameFinal\DungeonGameFinal\obj\Debug\net8.0\DungeonGameFinal.AssemblyInfo.cs
+C:\Users\ihorn\source\repos\DungeonGameFinal\DungeonGameFinal\obj\Debug\net8.0\DungeonGameFinal.csproj.CoreCompileInputs.cache
+C:\Users\ihorn\source\repos\DungeonGameFinal\DungeonGameFinal\bin\Debug\net8.0\DungeonGameFinal.exe
+C:\Users\ihorn\source\repos\DungeonGameFinal\DungeonGameFinal\bin\Debug\net8.0\DungeonGameFinal.deps.json
+C:\Users\ihorn\source\repos\DungeonGameFinal\DungeonGameFinal\bin\Debug\net8.0\DungeonGameFinal.runtimeconfig.json
+C:\Users\ihorn\source\repos\DungeonGameFinal\DungeonGameFinal\bin\Debug\net8.0\DungeonGameFinal.dll
+C:\Users\ihorn\source\repos\DungeonGameFinal\DungeonGameFinal\bin\Debug\net8.0\DungeonGameFinal.pdb
+C:\Users\ihorn\source\repos\DungeonGameFinal\DungeonGameFinal\obj\Debug\net8.0\DungeonGameFinal.dll
+C:\Users\ihorn\source\repos\DungeonGameFinal\DungeonGameFinal\obj\Debug\net8.0\refint\DungeonGameFinal.dll
+C:\Users\ihorn\source\repos\DungeonGameFinal\DungeonGameFinal\obj\Debug\net8.0\DungeonGameFinal.pdb
+C:\Users\ihorn\source\repos\DungeonGameFinal\DungeonGameFinal\obj\Debug\net8.0\DungeonGameFinal.genruntimeconfig.cache
+C:\Users\ihorn\source\repos\DungeonGameFinal\DungeonGameFinal\obj\Debug\net8.0\ref\DungeonGameFinal.dll
